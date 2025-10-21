@@ -210,9 +210,9 @@ body{
 }
 .p-item-li{
     padding: 10px;
-    background-color: gray;
+    background-color: rgba(36, 151, 193, 0.796);
     border-radius: 10px;
-    background: slategray;
+    
 }
 .p-item-li:hover{
     background: rgb(117, 117, 109);
@@ -221,9 +221,12 @@ body{
     text-decoration: none;
     color: black;
     padding: 10px;
-    background: slategray;
+    background: rgb(16, 156, 49);
     border-radius: 10px;
     margin: 10px;
+}
+.p-item-a:hover{
+    background: greenyellow;
 }
 
 /* about-section-start-here  */
